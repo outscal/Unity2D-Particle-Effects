@@ -2,7 +2,7 @@
 
 Particle effects are nothing but just like the phrase that says, *the* *cherry on the cake*. It can make the whole game beautiful, much more appealing, and can grab the player's attention towards the game for a long time. 
 
-![Particle Effects Sample] (https://media.giphy.com/media/xTiTnETzih3HYCaw2Q/giphy.gif)
+![Particle Effects Sample](https://media.giphy.com/media/xTiTnETzih3HYCaw2Q/giphy.gif)
 
 Unity makes it easier to put particles everywhere in the game. Pick up any game object that you want to put particles, apply to it, and booommmm!!! It will look amazing. Although applying too much of particles makes it look weird. There’s a saying “Don’t Over Do It”, and you have to carry that line along with you while using particles. 
 
