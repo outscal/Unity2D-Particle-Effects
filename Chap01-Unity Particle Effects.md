@@ -1,5 +1,7 @@
 # Unity Particle Effects 2D
 
+## Introduction
+
 Particle effects are nothing but just like the phrase that says, *the* *cherry on the cake*. It can make the whole game beautiful, much more appealing, and can grab the player's attention towards the game for a long time. 
 
 
