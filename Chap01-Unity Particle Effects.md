@@ -51,7 +51,7 @@ After that, click “None (Object)” below the Mode. Select the sprite that you
 
 ## Wrapping Up
    
-We covered a lot in this one. Feel free to take a breather over here.
+Ahhh!! This one's not so long.😛
 
 Maybe share your progress with the world via LinkedIn & Twitter?
 
