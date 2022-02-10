@@ -2,7 +2,7 @@
 
 Particle effects are nothing but just like the phrase that says, *the* *cherry on the cake*. It can make the whole game beautiful, much more appealing, and can grab the player's attention towards the game for a long time. 
 
-![Particle Effects Sample](https://media.giphy.com/media/xTiTnETzih3HYCaw2Q/giphy.gif)
+(https://media.giphy.com/media/xTiTnETzih3HYCaw2Q/giphy.gif)
 
 Unity makes it easier to put particles everywhere in the game. Pick up any game object that you want to put particles, apply to it, and booommmm!!! It will look amazing. Although applying too much of particles makes it look weird. There’s a saying “Don’t Over Do It”, and you have to carry that line along with you while using particles. 
 
@@ -45,5 +45,14 @@ After that, click “None (Object)” below the Mode. Select the sprite that you
 ![Particles in Unity](./Image/particles.png)
 
 
+## Wrapping Up
+   
+We covered a lot in this one. Feel free to take a breather over here.
+
+Maybe share your progress with the world via LinkedIn & Twitter?
+
+Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
+
+![You completed this course like a booommm!!!](https://media.giphy.com/media/mc4W9sigqDKXm/giphy.gif)
 
 ---
