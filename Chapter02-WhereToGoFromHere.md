@@ -8,4 +8,4 @@ Make a lot of noise, let the world know that you have taken your first steps in 
 
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know you're worthy.
 
-![Baaanngg!!!] (https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
+![Baaanngg!!!](https://media.giphy.com/media/WsvLlmmjx9tnmeTPNc/giphy.gif)
