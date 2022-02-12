@@ -49,14 +49,12 @@ After that, click “None (Object)” below the Mode. Select the sprite that you
 ![Particles in Unity](./Image/particles.png)
 
 
-## Wrapping Up
-   
-Ahhh!! This one's not so long.😛
+## Earn Learning points to get more rewards 🎁
 
-Maybe share your progress with the world via LinkedIn & Twitter?
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
 
-Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
+**Click on the gif below and follow the instructions** ⏬
 
-![You completed this course like a booommm!!!](https://media.giphy.com/media/mc4W9sigqDKXm/giphy.gif)
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
 
----
+This one's pretty short so let's do a quick wrap up
