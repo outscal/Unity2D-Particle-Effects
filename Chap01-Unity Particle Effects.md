@@ -17,3 +17,5 @@ Unity makes it easier to put particles everywhere in the game. Pick up any game 
     
 
 ![Particle System](./Image/particle_system.png)
+
+Move on to the next chapter to learn more about the Particle system and different properties.
