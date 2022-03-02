@@ -19,3 +19,13 @@ Unity makes it easier to put particles everywhere in the game. Pick up any game 
 ![Particle System](./Image/particle_system.png)
 
 Move on to the next chapter to learn more about the Particle system and some of its different properties that Unity allows us to tweak.
+
+## Enroll yourself and get rewarded when you complete the course 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning yoour points
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://airtable.com/shrY0mnlrnJXaZjps)
+
+You can also click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
