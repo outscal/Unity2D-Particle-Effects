@@ -24,13 +24,15 @@ After that, click “None (Object)” below the Mode. Select the sprite that you
 
 Let's try to understand some of the properties or modules of Particle system here:
 
-## Color by speed
-
-This is the color gradient of a particle defined over a speed range with low and high ends.
-
 ## Color over Lifetime
 
-This module specifies how a particle's color and transparency changes over lifetime.
+This module specifies how a particle's color and transparency changes over lifetime. For example, hot sparks and fireworks.
+
+![](https://media.giphy.com/media/AwcmOV28QPnck/giphy.gif)
+
+## Color by speed
+
+This is the color gradient of a particle defined over a speed range with low and high ends. For example, sparks that tend to burn more brightly when they move quickly through the air. Faster particles in this case need to appear white and slower particles need to appear red.
 
 ## Size Over Lifetime
 
